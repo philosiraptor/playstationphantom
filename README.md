@@ -21,3 +21,4 @@ https://www.amazon.com/BOJACK-Schottky-IN5817-Electronic-Silicon/dp/B07Q5H1SLY/r
 
 
 
+the system image can be downloaded here: https://drive.google.com/file/d/1_-Zj2Z1Y9o3DFCU8yJEkl37OR6Eqt_Ap/view?usp=sharing
