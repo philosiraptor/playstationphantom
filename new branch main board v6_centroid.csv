@@ -1,0 +1,46 @@
+Screaming Circuits SMD component position file.
+Created by Centroid_ScreamingCircuits_smd.ulp 1.2.0.
+
+Centroid Data for pc board: "new branch main board v6.brd" as of: 9/1/2024 7:37 PM
+Measurements are in inches. Comma delimited
+Only surface mount components included
+
+RefDes,Layer,LocationX,LocationY,Rotation
+C1,Top,1.700,3.011,0
+C2,Top,1.700,2.873,0
+C3,Top,1.700,3.248,0
+C4,Top,1.700,3.136,0
+C5,Top,-0.258,3.271,0
+C6,Top,-0.022,3.271,0
+C7,Top,-0.494,3.152,0
+C8,Top,-0.494,2.916,0
+C9,Top,-0.494,3.271,0
+CN1,Top,-0.096,2.598,180
+CN2,Top,-0.587,2.601,180
+FB1,Top,-0.258,3.034,0
+FB2,Top,-0.022,3.034,0
+J1,Top,0.884,-0.076,90
+R1,Top,1.412,3.238,0
+R2,Top,1.136,3.238,0
+R3,Top,1.433,2.923,0
+R4,Top,1.156,2.923,0
+R5,Top,-0.258,3.152,0
+R6,Top,-0.022,3.152,0
+R7,Top,-0.494,3.034,0
+S2,Bottom,-0.777,3.855,0
+S3,Bottom,-0.541,4.126,0
+S4,Bottom,-0.541,3.530,0
+S5,Bottom,-0.226,3.840,0
+S6,Bottom,-1.014,3.087,0
+S7,Bottom,-1.014,2.609,0
+S8,Bottom,0.561,4.100,0
+S9,Bottom,1.152,4.095,0
+S10,Bottom,1.821,3.815,0
+S11,Bottom,2.215,4.243,0
+S12,Bottom,2.215,3.450,0
+S13,Bottom,2.609,3.839,0
+S14,Bottom,2.727,3.086,0
+S15,Bottom,2.687,2.608,0
+S16,Top,-1.113,1.683,90
+U1,Top,-0.691,3.192,0
+VR1,Top,-0.888,3.467,0
